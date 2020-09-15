@@ -4,15 +4,15 @@
 
 
 <table>
-  <tr>
-   <td>
-    Name:
-<p>
+      <tr>
+           <td>
+            Name:
+            <p>
 
-    Date of Birth: Address
-<p>
+   <text> Date of Birth: Address</text>
+            <p>
 
-    Phone e-mail:
+   <text>Phone e-mail:</text>
    </td>
    <td>
 
@@ -40,37 +40,40 @@ elemekh@gmail.com
 
 <table>
   <tr>
-   <td>2015-2018
+   <td>
+       2015-2018
    </td>
    <td>
-    Belarusian Institute of Law, Major: Internecinal law 
+        Belarusian Institute of Law, Major: Internecinal law 
    </td>
   </tr>
   <tr>
-   <td> 2005-2007
+   <td>
+        2005-2007
    </td>
    <td>
-    University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotel business
+        University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotel business
 <p>
 
     
    </td>
   </tr>
   <tr>
-   <td> 2004-2005
+   <td> 
+       2004-2005
 <p>
 
                     
    </td>
    <td>
-    Belarusian Institute of Law, Major: Polish Philology
+        Belarusian Institute of Law, Major: Polish Philology
    </td>
   </tr>
   <tr>
    <td> 2002-2004
    </td>
    <td>
-    Minsk State Linguistic University, Major: English and Belarusian languages
+        Minsk State Linguistic University, Major: English and Belarusian languages
 <p>
 
     
@@ -173,7 +176,7 @@ HTML, CSS, Word Press, Microsoft Office, responsibility, high level of organizat
 
 
 
-Internet, politics, computer, advertisement, reading, business 
+Internet, politics, computer, advertisement, reading, business
 
 
 
