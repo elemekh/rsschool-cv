@@ -1,6 +1,6 @@
 **Curriculum Vitae**
 
-**<span style="text-decoration:underline;">Personal data			</span>**
+**<span style="text-decoration:underline;">Personal data</span>**
 
 
 <table>
@@ -100,7 +100,7 @@ elemekh@gmail.com
 Individual entrepreneur (Belarus)
 <p>
 
-   Gundam Belarus Owner (Belarus) <a href="https://www.gundam.by">gundam.by</a>
+   Gundam Belarus Owner (Belarus) <a href="https://www.gundam.by">www.gundam.by</a>
 <p>
 
    METALL-EXPRES Sp. z o.o. (Poland) Representative – Belarus
@@ -152,17 +152,19 @@ Individual entrepreneur (Belarus)
 **<span style="text-decoration:underline;">Languages</span>**
 
 
-```
-Russian - fluent, possession of professional vocabulary Belarusian - fluent, possession of professional vocabulary Polish - fluent, possession of professional vocabulary 
+
+Russian - fluent, possession of professional vocabulary
+Belarusian - fluent, possession of professional vocabulary
+Polish - fluent, possession of professional vocabulary 
 English - Upper Intermediate
-```
+
 
 
 **<span style="text-decoration:underline;">Professional skills</span>**
 
-```
+
 HTML, CSS, Word Press, Microsoft Office, responsibility, high level of organization, attention to details, sociability, ability to solve problems effectively
-```
+
 
 
 
@@ -170,8 +172,8 @@ HTML, CSS, Word Press, Microsoft Office, responsibility, high level of organizat
 **<span style="text-decoration:underline;">Interests</span>**
 
 
-```
+
 Internet, politics, computer, advertisement, reading, business 
-```
+
 
 
