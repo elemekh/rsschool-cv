@@ -6,13 +6,13 @@
 <table>
       <tr>
            <td>
-          Name:
-            <p>
-
-    Date of Birth: Address  
+          
+    Name
+    
+    Date of Birth: 
+    Address  
  
-
-    Phone e-mail:
+    Phone and e-mail:
    </td>
    <td>
 
@@ -22,6 +22,7 @@
 <pre class="prettyprint">
 <p>
 Evgeny Lemekh 
+<p>
 11 march 1984 Belarus, Minsk
 Peramozhcau 51/1/51
 <p>
