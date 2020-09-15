@@ -9,10 +9,10 @@
           Name:
             <p>
 
-    <text> Date of Birth: Address</text>   
+    Date of Birth: Address  
             <p>
 
-    <text>Phone e-mail:</text>
+    Phone e-mail:
    </td>
    <td>
 
