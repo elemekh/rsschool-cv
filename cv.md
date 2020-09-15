@@ -88,7 +88,7 @@ elemekh@gmail.com
 
 
 
-    **<span style="text-decoration:underline;">Work Experience</span>**
+   **<span style="text-decoration:underline;">Work Experience</span>**
 
 
 <table>
@@ -100,10 +100,10 @@ elemekh@gmail.com
 Individual entrepreneur (Belarus)
 <p>
 
-    Gundam Belarus Owner (Belarus) <a href="https://www.gundam.by">gundam.by</a>
+   Gundam Belarus Owner (Belarus) <a href="https://www.gundam.by">gundam.by</a>
 <p>
 
-    METALL-EXPRES Sp. z o.o. (Poland) Representative – Belarus
+   METALL-EXPRES Sp. z o.o. (Poland) Representative – Belarus
    </td>
   </tr>
   <tr>
@@ -160,19 +160,17 @@ English - Upper Intermediate
 
 **<span style="text-decoration:underline;">Professional skills</span>**
 
-
 ```
 HTML, CSS, Word Press, Microsoft Office, responsibility, high level of organization, attention to details, sociability, ability to solve problems effectively
 ```
 
 
 
+
+**<span style="text-decoration:underline;">Interests</span>**
+
+
 ```
-
-
-Interests
-
-
 Internet, politics, computer, advertisement, reading, business 
 ```
 
