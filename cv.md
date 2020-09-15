@@ -18,9 +18,14 @@
 
 
 
-<pre class="prettyprint">Evgeny Lemekh 
+
+<pre class="prettyprint">
+<p>
+Evgeny Lemekh 
 11 march 1984 Belarus, Minsk
-Peramozhcau 51/1/51 00375 44 465 90 00
+Peramozhcau 51/1/51
+<p>
+00375 44 465 90 00
 elemekh@gmail.com
 </pre>
 
@@ -45,10 +50,10 @@ elemekh@gmail.com
    <td> 2005-2007
    </td>
    <td>
-    University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotel
+    University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotel business
 <p>
 
-    business
+    
    </td>
   </tr>
   <tr>
@@ -65,10 +70,10 @@ elemekh@gmail.com
    <td> 2002-2004
    </td>
    <td>
-    Minsk State Linguistic University, Major: English and
+    Minsk State Linguistic University, Major: English and Belarusian languages
 <p>
 
-    Belarusian languages
+    
    </td>
   </tr>
   <tr>
@@ -91,14 +96,14 @@ elemekh@gmail.com
    <td>2014-
    </td>
    <td>
-     \
+     
 Individual entrepreneur (Belarus)
 <p>
 
-    Gundam Belarus Owner (Belarus) <a href="http://www.gundam.by">www.gundam.by</a>
+    Gundam Belarus Owner (Belarus) <a href="https://www.gundam.by">gundam.by</a>
 <p>
 
-    METALL-EXPRES Sp. z o.o. (Poland)<strong> </strong>Representative – Belarus
+    METALL-EXPRES Sp. z o.o. (Poland) Representative – Belarus
    </td>
   </tr>
   <tr>
