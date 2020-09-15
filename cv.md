@@ -10,7 +10,7 @@
             <p>
 
     Date of Birth: Address  
-            <p>
+ 
 
     Phone e-mail:
    </td>
