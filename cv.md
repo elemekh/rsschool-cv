@@ -116,13 +116,6 @@ Individual entrepreneur (Belarus)
 </table>
 <br>
 
-| Laguages|       |
-|------------|:--------:|
-|Russian| - fluent, possession of professional vocabulary|
-|Belarusian| - fluent, possession of professional vocabulary|
-|Polish| - fluent, possession of professional vocabulary| 
-|English| - Upper Intermediate|
-
 
 **Laguages**
 
