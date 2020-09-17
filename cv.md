@@ -1,39 +1,12 @@
 **Curriculum Vitae**
 
-**<span style="text-decoration:underline;">Personal data</span>**
 
+| Personal data   |            |   
+|----------:|-------------:|
+| Name:     |  Evgeny Lemekh  | 
+| Date of Birth |    11 march 1984    |
+| Adress | Belarus, Minsk Peramozhcau 51/1/51  |   
 
-<table>
-      <tr>
-           <td>
-          
-    Name
-    
-    Date of Birth: 
-    Address  
- 
-    Phone and e-mail:
-   </td>
-   <td>
-
-
-
-
-<pre class="prettyprint">
-<p>
-Evgeny Lemekh 
-<p>
-11 march 1984 Belarus, Minsk
-Peramozhcau 51/1/51
-<p>
-00375 44 465 90 00
-elemekh@gmail.com
-</pre>
-
-
-   </td>
-  </tr>
-</table>
 
 
 **<span style="text-decoration:underline;">Education</span>**
