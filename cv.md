@@ -9,7 +9,7 @@
 | email: | elemekh@gmail.com |
 
 
-**<span style="text-decoration:underline;">Education</span>**
+**Education**  
 
 
 <table>
@@ -27,18 +27,12 @@
    </td>
    <td>
         University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotel business
-
-
-    
-   </td>
+  </td>
   </tr>
   <tr>
    <td> 
        2004-2005
-
-
-                    
-   </td>
+    </td>
    <td>
         Belarusian Institute of Law, Major: Polish Philology
    </td>
@@ -48,10 +42,7 @@
    </td>
    <td>
         Minsk State Linguistic University, Major: English and Belarusian languages
-
-
-    
-   </td>
+    </td>
   </tr>
   <tr>
    <td>
@@ -64,7 +55,7 @@
 </table>
 
 
- **<span style="text-decoration:underline;">Work Experience</span>**
+ **Work Experience**
 
 
 <table>
@@ -123,30 +114,28 @@ Individual entrepreneur (Belarus)
    </td>
   </tr>
 </table>
+<br>
+
+| Laguages|       |
+|------------|:--------:|
+|Russian| - fluent, possession of professional vocabulary|
+|Belarusian| - fluent, possession of professional vocabulary|
+|Polish| - fluent, possession of professional vocabulary| 
+|English| - Upper Intermediate|
 
 
-**<span style="text-decoration:underline;">Languages</span>**
+**Laguages**
+
+> **Russian** - fluent, possession of professional vocabulary<br>
+**Belarusian** - fluent, possession of professional vocabulary<br>
+**Polish** - fluent, possession of professional vocabulary<br>
+**English** - Upper Intermediate<br>
+
+**Professional skills**
 
 
+> HTML, CSS, Word Press, Microsoft Office, responsibility, high level of organization, attention to details, sociability, ability to solve problems effectively
 
-Russian - fluent, possession of professional vocabulary
-Belarusian - fluent, possession of professional vocabulary
-Polish - fluent, possession of professional vocabulary 
-English - Upper Intermediate
+**Interests**
 
-
-
-**<span style="text-decoration:underline;">Professional skills</span>**
-
-
-HTML, CSS, Word Press, Microsoft Office, responsibility, high level of organization, attention to details, sociability, ability to solve problems effectively
-
-
-
-
-
-**<span style="text-decoration:underline;">Interests</span>**
-
-
-
-Internet, politics, computer, advertisement, reading, business
+> Internet, politics, computer, advertisement, reading, business
