@@ -27,7 +27,7 @@
    </td>
    <td>
         University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotel business
-<p>
+
 
     
    </td>
@@ -35,7 +35,7 @@
   <tr>
    <td> 
        2004-2005
-<p>
+
 
                     
    </td>
@@ -48,7 +48,7 @@
    </td>
    <td>
         Minsk State Linguistic University, Major: English and Belarusian languages
-<p>
+
 
     
    </td>
@@ -74,10 +74,10 @@
    <td>
      
 Individual entrepreneur (Belarus)
-<p>
+
 
    Gundam Belarus Owner (Belarus) <a href="https://www.gundam.by">www.gundam.by</a>
-<p>
+
 
    METALL-EXPRES Sp. z o.o. (Poland) Representative – Belarus
    </td>
