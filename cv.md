@@ -1,156 +1,68 @@
-**Curriculum Vitae**
+Curriculum Vitae
+
+**Personal data**
+
+|
+Name:Date of Birth: Address
+Phone e-mail: |
+
+| ![](RackMultipart20200917-4-1t5ydtp_html_a04d4d3673b98ae2.gif)
+ |
+| --- |
 
 
-| Personal data   |            |   
-|----------:|-------------:|
-| Name:     |  Evgeny Lemekh  | 
-| Date of Birth |    11 march 1984    |
-| Adress | Belarus, Minsk Peramozhcau 51/1/51  |   
+Evgeny Lemekh 11 march 1984 Belarus, MinskPeramozhcau 51/1/51 00375 44 465 90 00[elemekh@gmail.com](mailto:elemekh@gmail.com) |
+| --- | --- |
 
+**Education**
 
+| 2015-2018 | Belarusian Institute of Law, Major: Internecinal law |
+| --- | --- |
+| 2005-2007 | University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotelbusiness |
+|
 
-**<span style="text-decoration:underline;">Education</span>**
+2004-2005 |
+Belarusian Institute of Law, Major: Polish Philology |
+| 2002-2004 | Minsk State Linguistic University, Major: English andBelarusian languages |
+| 1998-2002 | Jakub Kolas&#39; Lyceum. Advanced level of English |
 
+**Work**** Experience**
 
-<table>
-  <tr>
-   <td>
-       2015-2018
-   </td>
-   <td>
-        Belarusian Institute of Law, Major: Internecinal law 
-   </td>
-  </tr>
-  <tr>
-   <td>
-        2005-2007
-   </td>
-   <td>
-        University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotel business
-<p>
+| 2014- |
+Individual entrepreneur (Belarus)Gundam Belarus Owner (Belarus) www.gundam.byMETALL-EXPRES Sp. z o.o. (Poland)Representative – Belarus |
+| --- | --- |
+|
+2012-2014
+ | BELFOLGSNABIMPORT LLC. (Belarus) Manager of purchasing department and development. [www.bfsi.by](http://www.bfsi.by/) |
+| --- | --- |
+| 2011-2012 | APTT-TRADE. (Ukraine) Sale Representative in Chernovci. [www.aptt.com.ua](http://www.aptt.com.ua/)
+ |
+| --- | --- |
+|
+ |
+|
+2011-2011 | Techmet Andrzej Chmielinski. (Poland) Sales Representative (Belarusand Ukraine Market) [www.techmet.eu](http://www.techmet.eu/) |
+| --- | --- |
+|
+ |
+| 2009- 2011 |
+&quot;Metkom&quot; Sp. z o.o., (Poland) Sales Representative (Eastern Europe Market) [www.metkom.pl](http://www.metkom.pl/)
+ |
+| --- | --- |
 
-    
-   </td>
-  </tr>
-  <tr>
-   <td> 
-       2004-2005
-<p>
+**Languages**
 
-                    
-   </td>
-   <td>
-        Belarusian Institute of Law, Major: Polish Philology
-   </td>
-  </tr>
-  <tr>
-   <td> 2002-2004
-   </td>
-   <td>
-        Minsk State Linguistic University, Major: English and Belarusian languages
-<p>
+| Russian - fluent, possession of professional vocabulary Belarusian - fluent, possession of professional vocabulary Polish - fluent, possession of professional vocabulary English - Upper Intermediate |
+| --- |
 
-    
-   </td>
-  </tr>
-  <tr>
-   <td>
-    1998-2002
-   </td>
-   <td>
-    Jakub Kolas’ Lyceum. Advanced level of English
-   </td>
-  </tr>
-</table>
+| HTML, Word Press, Microsoft Office, responsibility, high level of organization, attention to details, sociability, ability to solve problems effectively |
+| --- |
 
+**Professional skills**
 
+|
 
-   **<span style="text-decoration:underline;">Work Experience</span>**
+Internet, politics, computer, advertisement, reading, business |
+| --- |
 
-
-<table>
-  <tr>
-   <td>2014-
-   </td>
-   <td>
-     
-Individual entrepreneur (Belarus)
-<p>
-
-   Gundam Belarus Owner (Belarus) <a href="https://www.gundam.by">www.gundam.by</a>
-<p>
-
-   METALL-EXPRES Sp. z o.o. (Poland) Representative – Belarus
-   </td>
-  </tr>
-  <tr>
-   <td>
-    2012-2014
-   </td>
-   <td>
-    BELFOLGSNABIMPORT LLC. (Belarus) Manager of purchasing department and development. <a href="http://www.bfsi.by/">www.bfsi.by</a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    2011-2012
-   </td>
-   <td rowspan="2" >
-    APTT-TRADE. (Ukraine) Sale Representative in Chernovci. <a href="http://www.aptt.com.ua/">www.aptt.com.ua</a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    2011-2011
-   </td>
-   <td rowspan="2" >
-    Techmet Andrzej Chmielinski. (Poland) Sales Representative (Belarus and Ukraine Market) <a href="http://www.techmet.eu/">www.techmet.eu</a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-    2009- 2011
-   </td>
-   <td>
-    ”Metkom” Sp. z o.o., (Poland) Sales Representative (Eastern Europe Market) <a href="http://www.metkom.pl/">www.metkom.pl</a>
-   </td>
-  </tr>
-</table>
-
-
-**<span style="text-decoration:underline;">Languages</span>**
-
-
-
-Russian - fluent, possession of professional vocabulary
-Belarusian - fluent, possession of professional vocabulary
-Polish - fluent, possession of professional vocabulary 
-English - Upper Intermediate
-
-
-
-**<span style="text-decoration:underline;">Professional skills</span>**
-
-
-HTML, CSS, Word Press, Microsoft Office, responsibility, high level of organization, attention to details, sociability, ability to solve problems effectively
-
-
-
-
-
-**<span style="text-decoration:underline;">Interests</span>**
-
-
-
-Internet, politics, computer, advertisement, reading, business
-
-
-
+**Interests**
