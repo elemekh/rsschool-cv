@@ -9,13 +9,59 @@
 | email: | elemekh@gmail.com |
 
 
-|Education|
-|---------|:-----------:|
-|2015-2018	Belarusian Institute of Law, Major: Internecinal law |
-|2005-2007	University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotel business|
-|2004-2005  Belarusian Institute of Law, Major: Polish Philology|
-|2002-2004	Minsk State Linguistic University, Major: English and Belarusian languages|
-|1998-2002	Jakub Kolas’ Lyceum. Advanced level of English|
+**<span style="text-decoration:underline;">Education</span>**
+
+
+<table>
+  <tr>
+   <td>
+       2015-2018
+   </td>
+   <td>
+        Belarusian Institute of Law, Major: Internecinal law 
+   </td>
+  </tr>
+  <tr>
+   <td>
+        2005-2007
+   </td>
+   <td>
+        University of Information Technology and Management in Rzeszow (Poland), Economics Department, Major: Hotel business
+<p>
+
+    
+   </td>
+  </tr>
+  <tr>
+   <td> 
+       2004-2005
+<p>
+
+                    
+   </td>
+   <td>
+        Belarusian Institute of Law, Major: Polish Philology
+   </td>
+  </tr>
+  <tr>
+   <td> 2002-2004
+   </td>
+   <td>
+        Minsk State Linguistic University, Major: English and Belarusian languages
+<p>
+
+    
+   </td>
+  </tr>
+  <tr>
+   <td>
+    1998-2002
+   </td>
+   <td>
+    Jakub Kolas’ Lyceum. Advanced level of English
+   </td>
+  </tr>
+</table>
 
 
  **<span style="text-decoration:underline;">Work Experience</span>**
