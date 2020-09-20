@@ -36,5 +36,6 @@ table{
   th{
       font-size: 20px;
       padding-top: 30px;
-      position: relative;
+      text-align: left;
+    
   }
