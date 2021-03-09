@@ -38,12 +38,18 @@ table{
       padding-top: 30px;
       text-align: left;
   }
+
 .footer {
   display: flex;
   align-items: center;
   justify-content: center;
   padding-top: 1rem;
   padding-bottom: 1rem;
+}
+
+.logo {
+  height: 7rem;
+  width: 30rem;
 }
 
 .ghlink {
