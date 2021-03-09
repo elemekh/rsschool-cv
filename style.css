@@ -37,5 +37,21 @@ table{
       font-size: 20px;
       padding-top: 30px;
       text-align: left;
-    
   }
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.ghlink {
+  font-size: 6rem;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
