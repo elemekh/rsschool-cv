@@ -55,6 +55,7 @@ table{
 .ghlink {
   font-size: 6rem;
   cursor: pointer;
+  font-weight: 600;
 }
 
 a {
